@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first GitHub repository.
 <br>
-Author : Ayush Vishwakarma
+Author : Ayush Vishwakarma (Apna College)
